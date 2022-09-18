@@ -1952,10 +1952,6 @@ figure.effect-bubba:hover p {
         min-height: 700px;
     }
 
-    .banner-bottom-grid-rel-pos p {
-        font-size: 1em;
-    }
-
     p {
         font-size: 1em;
     }
@@ -2022,11 +2018,12 @@ figure.effect-bubba:hover p {
 
     .banner-bottom {
         padding: 5em 0;
+        min-height: 450px;
     }
 
     .banner-bottom-grid {
         float: left;
-        width: 33%;
+        width: 100%;
         padding: 0 0.5em;
     }
 
@@ -2085,7 +2082,7 @@ figure.effect-bubba:hover p {
 
     h3.title,
     .contact h3.title {
-        font-size: 3.6em;
+        font-size: 2.8em;
     }
 
     .services-info {
@@ -2999,7 +2996,7 @@ figure.effect-bubba:hover p {
 
     .banner-bottom-grid {
         float: none;
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
     }
 
@@ -3307,7 +3304,7 @@ figure.effect-bubba:hover p {
     }
 
     .banner-bottom-grid {
-        width: 95%;
+        width: 100%;
     }
 
     .trip p.trip-text {
